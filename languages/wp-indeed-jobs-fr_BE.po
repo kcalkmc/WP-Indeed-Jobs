@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Indeed Jobs v0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-21 22:04:39+0000\n"
+"Last-Translator: paul <paul@wpconsult.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: BELGIUM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/admin.php:20
+#: admin/admin.php:172
+#: admin/admin.php:191
+#@ wp-indeed-jobs
+msgid "WP Indeed Job Search Options"
+msgstr ""
+
+#: admin/admin.php:28
+#@ wp-indeed-jobs
+msgid "Publisher ID"
+msgstr ""
+
+#: admin/admin.php:33
+#@ wp-indeed-jobs
+msgid "provide your Indeed publisher ID."
+msgstr ""
+
+#: admin/admin.php:39
+#@ wp-indeed-jobs
+msgid "Channel"
+msgstr ""
+
+#: admin/admin.php:44
+#@ wp-indeed-jobs
+msgid "Channel."
+msgstr ""
+
+#: admin/admin.php:50
+#@ wp-indeed-jobs
+msgid "Max Number of jobs to fetch"
+msgstr ""
+
+#: admin/admin.php:55
+#@ wp-indeed-jobs
+msgid "Enter max number of jobs to fetch."
+msgstr ""
+
+#: admin/admin.php:61
+#@ wp-indeed-jobs
+msgid "Select the page to display results on"
+msgstr ""
+
+#: admin/admin.php:66
+#@ wp-indeed-jobs
+msgid "Select the page to display results on."
+msgstr ""
+
+#: admin/admin.php:89
+#@ wp-indeed-jobs
+msgid "WP Indeed Jobs settings."
+msgstr ""
+
+#: admin/admin.php:173
+#@ wp-indeed-jobs
+msgid "WP Indeed Job Search"
+msgstr ""
+
+#: admin/admin.php:255
+#, php-format
+#@ wp-indeed-jobs
+msgid "WP Indeed Job Search plugin activated. Please check the %1$ssettings%2$s. | %3$sDismiss%4$s"
+msgstr ""
+
+#: includes/class-wpij-search-form.php:211
+#@ wp-indeed-jobs
+msgid "Job Title"
+msgstr ""
+
+#: includes/class-wpij-search-form.php:212
+#@ wp-indeed-jobs
+msgid "Company"
+msgstr ""
+
+#: includes/class-wpij-search-form.php:213
+#@ wp-indeed-jobs
+msgid "Location"
+msgstr ""
+
+#: includes/class-wpij-search-form.php:214
+#@ wp-indeed-jobs
+msgid "Job Source"
+msgstr ""
+
+#: includes/class-wpij-search-form.php:215
+#@ wp-indeed-jobs
+msgid "Date"
+msgstr ""
+
+#: includes/class-wpij-search-form.php:216
+#@ wp-indeed-jobs
+msgid "Description"
+msgstr ""
+
+#: includes/form-fields.php:3
+#: includes/quicksearch-form-fields.php:3
+#@ wp-indeed-jobs
+msgid "Search for jobs"
+msgstr ""
+
+#: includes/form-fields.php:5
+#@ wp-indeed-jobs
+msgid "With all of these words:"
+msgstr ""
+
+#: includes/form-fields.php:8
+#: includes/form-fields.php:15
+#: includes/form-fields.php:22
+#: includes/form-fields.php:29
+#: includes/form-fields.php:36
+#: includes/form-fields.php:43
+#@ wp-indeed-jobs
+msgid "ex: WordPress developer or receptionist"
+msgstr ""
+
+#: includes/form-fields.php:12
+#@ wp-indeed-jobs
+msgid "With the exact phrase:"
+msgstr ""
+
+#: includes/form-fields.php:19
+#@ wp-indeed-jobs
+msgid "With at least one of these words:"
+msgstr ""
+
+#: includes/form-fields.php:26
+#@ wp-indeed-jobs
+msgid "With none of these words:"
+msgstr ""
+
+#: includes/form-fields.php:33
+#@ wp-indeed-jobs
+msgid "With these words in the title:"
+msgstr ""
+
+#: includes/form-fields.php:40
+#@ wp-indeed-jobs
+msgid "From this company:"
+msgstr ""
+
+#: includes/form-fields.php:47
+#@ wp-indeed-jobs
+msgid "Show jobs of type:"
+msgstr ""
+
+#: includes/form-fields.php:51
+#@ wp-indeed-jobs
+msgid "All job types"
+msgstr ""
+
+#: includes/form-fields.php:52
+#@ wp-indeed-jobs
+msgid "Full-time"
+msgstr ""
+
+#: includes/form-fields.php:53
+#@ wp-indeed-jobs
+msgid "Part-time"
+msgstr ""
+
+#: includes/form-fields.php:54
+#@ wp-indeed-jobs
+msgid "Contract"
+msgstr ""
+
+#: includes/form-fields.php:55
+#@ wp-indeed-jobs
+msgid "Internship"
+msgstr ""
+
+#: includes/form-fields.php:56
+#@ wp-indeed-jobs
+msgid "Temporary"
+msgstr ""
+
+#: includes/form-fields.php:61
+#@ wp-indeed-jobs
+msgid "Show jobs from:"
+msgstr ""
+
+#: includes/form-fields.php:65
+#@ wp-indeed-jobs
+msgid "All web sites"
+msgstr ""
+
+#: includes/form-fields.php:66
+#@ wp-indeed-jobs
+msgid "Job boards only"
+msgstr ""
+
+#: includes/form-fields.php:67
+#@ wp-indeed-jobs
+msgid "Employer web sites only"
+msgstr ""
+
+#: includes/form-fields.php:74
+#@ wp-indeed-jobs
+msgid "Exclude staffing agencies"
+msgstr ""
+
+#: includes/form-fields.php:79
+#@ wp-indeed-jobs
+msgid "Salary:"
+msgstr ""
+
+#: includes/form-fields.php:82
+#@ wp-indeed-jobs
+msgid "ex: $50,000 or $40K-$90K"
+msgstr ""
+
+#: includes/form-fields.php:83
+#@ wp-indeed-jobs
+msgid "per year"
+msgstr ""
+
+#: includes/form-fields.php:88
+#@ wp-indeed-jobs
+msgid "Country"
+msgstr ""
+
+#: includes/form-fields.php:92
+#@ wp-indeed-jobs
+msgid "United States"
+msgstr ""
+
+#: includes/form-fields.php:93
+#@ wp-indeed-jobs
+msgid "Argentina"
+msgstr ""
+
+#: includes/form-fields.php:94
+#@ wp-indeed-jobs
+msgid "Australia"
+msgstr ""
+
+#: includes/form-fields.php:95
+#@ wp-indeed-jobs
+msgid "Austria"
+msgstr ""
+
+#: includes/form-fields.php:96
+#@ wp-indeed-jobs
+msgid "Bahrain"
+msgstr ""
+
+#: includes/form-fields.php:97
+#@ wp-indeed-jobs
+msgid "Belgium"
+msgstr ""
+
+#: includes/form-fields.php:98
+#@ wp-indeed-jobs
+msgid "Brazil"
+msgstr ""
+
+#: includes/form-fields.php:99
+#@ wp-indeed-jobs
+msgid "Canada"
+msgstr ""
+
+#: includes/form-fields.php:100
+#@ wp-indeed-jobs
+msgid "Chile"
+msgstr ""
+
+#: includes/form-fields.php:101
+#@ wp-indeed-jobs
+msgid "China"
+msgstr ""
+
+#: includes/form-fields.php:102
+#@ wp-indeed-jobs
+msgid "Colombia"
+msgstr ""
+
+#: includes/form-fields.php:103
+#@ wp-indeed-jobs
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/form-fields.php:104
+#@ wp-indeed-jobs
+msgid "Denmark"
+msgstr ""
+
+#: includes/form-fields.php:105
+#@ wp-indeed-jobs
+msgid "Finland"
+msgstr ""
+
+#: includes/form-fields.php:106
+#@ wp-indeed-jobs
+msgid "France"
+msgstr ""
+
+#: includes/form-fields.php:107
+#@ wp-indeed-jobs
+msgid "Germany"
+msgstr ""
+
+#: includes/form-fields.php:108
+#@ wp-indeed-jobs
+msgid "Greece"
+msgstr ""
+
+#: includes/form-fields.php:109
+#@ wp-indeed-jobs
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/form-fields.php:110
+#@ wp-indeed-jobs
+msgid "Hungary"
+msgstr ""
+
+#: includes/form-fields.php:111
+#@ wp-indeed-jobs
+msgid "India"
+msgstr ""
+
+#: includes/form-fields.php:112
+#@ wp-indeed-jobs
+msgid "Indonesia"
+msgstr ""
+
+#: includes/form-fields.php:113
+#@ wp-indeed-jobs
+msgid "Ireland"
+msgstr ""
+
+#: includes/form-fields.php:114
+#@ wp-indeed-jobs
+msgid "Israel"
+msgstr ""
+
+#: includes/form-fields.php:115
+#@ wp-indeed-jobs
+msgid "Italy"
+msgstr ""
+
+#: includes/form-fields.php:116
+#@ wp-indeed-jobs
+msgid "Japan"
+msgstr ""
+
+#: includes/form-fields.php:117
+#@ wp-indeed-jobs
+msgid "Korea"
+msgstr ""
+
+#: includes/form-fields.php:118
+#@ wp-indeed-jobs
+msgid "Kuwait"
+msgstr ""
+
+#: includes/form-fields.php:119
+#@ wp-indeed-jobs
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/form-fields.php:120
+#@ wp-indeed-jobs
+msgid "Malaysia"
+msgstr ""
+
+#: includes/form-fields.php:121
+#@ wp-indeed-jobs
+msgid "Mexico"
+msgstr ""
+
+#: includes/form-fields.php:122
+#@ wp-indeed-jobs
+msgid "Netherlands"
+msgstr ""
+
+#: includes/form-fields.php:123
+#@ wp-indeed-jobs
+msgid "New Zealand"
+msgstr ""
+
+#: includes/form-fields.php:124
+#@ wp-indeed-jobs
+msgid "Norway"
+msgstr ""
+
+#: includes/form-fields.php:125
+#@ wp-indeed-jobs
+msgid "Oman"
+msgstr ""
+
+#: includes/form-fields.php:126
+#@ wp-indeed-jobs
+msgid "Pakistan"
+msgstr ""
+
+#: includes/form-fields.php:127
+#@ wp-indeed-jobs
+msgid "Peru"
+msgstr ""
+
+#: includes/form-fields.php:128
+#@ wp-indeed-jobs
+msgid "Philippines"
+msgstr ""
+
+#: includes/form-fields.php:129
+#@ wp-indeed-jobs
+msgid "Poland"
+msgstr ""
+
+#: includes/form-fields.php:130
+#@ wp-indeed-jobs
+msgid "Portugal"
+msgstr ""
+
+#: includes/form-fields.php:131
+#@ wp-indeed-jobs
+msgid "Qatar"
+msgstr ""
+
+#: includes/form-fields.php:132
+#@ wp-indeed-jobs
+msgid "Romania"
+msgstr ""
+
+#: includes/form-fields.php:133
+#@ wp-indeed-jobs
+msgid "Russia"
+msgstr ""
+
+#: includes/form-fields.php:134
+#@ wp-indeed-jobs
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/form-fields.php:135
+#@ wp-indeed-jobs
+msgid "Singapore"
+msgstr ""
+
+#: includes/form-fields.php:136
+#@ wp-indeed-jobs
+msgid "South Africa"
+msgstr ""
+
+#: includes/form-fields.php:137
+#@ wp-indeed-jobs
+msgid "Spain"
+msgstr ""
+
+#: includes/form-fields.php:138
+#@ wp-indeed-jobs
+msgid "Sweden"
+msgstr ""
+
+#: includes/form-fields.php:139
+#@ wp-indeed-jobs
+msgid "Switzerland"
+msgstr ""
+
+#: includes/form-fields.php:140
+#@ wp-indeed-jobs
+msgid "Taiwan"
+msgstr ""
+
+#: includes/form-fields.php:141
+#@ wp-indeed-jobs
+msgid "Turkey"
+msgstr ""
+
+#: includes/form-fields.php:142
+#@ wp-indeed-jobs
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/form-fields.php:143
+#@ wp-indeed-jobs
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/form-fields.php:144
+#@ wp-indeed-jobs
+msgid "Venezuela"
+msgstr ""
+
+#: includes/form-fields.php:149
+#@ wp-indeed-jobs
+msgid "Radius"
+msgstr ""
+
+#: includes/form-fields.php:153
+#@ wp-indeed-jobs
+msgid "Only in"
+msgstr ""
+
+#: includes/form-fields.php:154
+#@ wp-indeed-jobs
+msgid "Within 5 miles of"
+msgstr ""
+
+#: includes/form-fields.php:155
+#@ wp-indeed-jobs
+msgid "Within 10 miles of"
+msgstr ""
+
+#: includes/form-fields.php:156
+#@ wp-indeed-jobs
+msgid "Within 15 miles of"
+msgstr ""
+
+#: includes/form-fields.php:157
+#@ wp-indeed-jobs
+msgid "Within 25 miles of"
+msgstr ""
+
+#: includes/form-fields.php:158
+#@ wp-indeed-jobs
+msgid "Within 50 miles of"
+msgstr ""
+
+#: includes/form-fields.php:159
+#@ wp-indeed-jobs
+msgid "Within 100 miles of"
+msgstr ""
+
+#: includes/form-fields.php:164
+#: includes/quicksearch-form-fields.php:11
+#@ wp-indeed-jobs
+msgid "Location:"
+msgstr ""
+
+#: includes/form-fields.php:167
+#: includes/quicksearch-form-fields.php:14
+#@ wp-indeed-jobs
+msgid "ex: New York or MA"
+msgstr ""
+
+#: includes/form-fields.php:171
+#@ wp-indeed-jobs
+msgid "Age - Jobs published"
+msgstr ""
+
+#: includes/form-fields.php:175
+#@ wp-indeed-jobs
+msgid "anytime"
+msgstr ""
+
+#: includes/form-fields.php:176
+#@ wp-indeed-jobs
+msgid "within 15 days"
+msgstr ""
+
+#: includes/form-fields.php:177
+#@ wp-indeed-jobs
+msgid "within 7 days"
+msgstr ""
+
+#: includes/form-fields.php:178
+#@ wp-indeed-jobs
+msgid "within 3 days"
+msgstr ""
+
+#: includes/form-fields.php:179
+#@ wp-indeed-jobs
+msgid "since yesterday"
+msgstr ""
+
+#: includes/form-fields.php:180
+#@ wp-indeed-jobs
+msgid "since my last visit"
+msgstr ""
+
+#: includes/form-fields.php:195
+#: includes/quicksearch-form-fields.php:29
+#@ wp-indeed-jobs
+msgid "Find jobs"
+msgstr ""
+
+#: includes/quicksearch-form-fields.php:5
+#@ wp-indeed-jobs
+msgid "What:"
+msgstr ""
+
+#: includes/quicksearch-form-fields.php:7
+#@ wp-indeed-jobs
+msgid "ex: Receptionist"
+msgstr ""
+
